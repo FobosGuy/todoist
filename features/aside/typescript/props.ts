@@ -1,3 +1,3 @@
-import { IBaseProps } from "@/typescript/props";
+import { BaseProps } from "@/typescript/props";
 
-export interface IAppSidebarProps extends IBaseProps {}
+export type AppSidebarProps = BaseProps & {};
