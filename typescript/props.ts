@@ -1,0 +1,1 @@
+export interface IBaseProps extends React.HTMLProps<HTMLDivElement> {}
